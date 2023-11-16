@@ -12,3 +12,9 @@ basic idea is a kvm switch using
    screaming green background is currently for connection visualisation ^^
 
 ![Example](./example.jpg)
+
+
+
+for reproducability: 
+- clone https://github.com/inputstick/InputStickAPI-Android into /submodules
+- symlink app/src/main/java/com/inputstick and submodules//InputStickAPI-Android//InputStickAPI//src//com//inputstic
