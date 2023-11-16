@@ -1,0 +1,3 @@
+[submodule "app/src/main/java/InputStickAPI-Android"]
+	path = app/src/main/java/InputStickAPI-Android
+	url = https://github.com/jonnytest1/InputStickAPI-Android
